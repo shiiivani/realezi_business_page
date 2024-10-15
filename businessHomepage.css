@@ -431,9 +431,13 @@ body::-webkit-scrollbar {
   width: 30%;
 }
 
+.section-one-content p {
+  font-size: 1.1rem;
+}
+
 .section-one-content button {
   padding: 5px 20px;
-  border-radius: 15px;
+  border-radius: 20px;
   border: none;
   color: #111f3c;
   margin-top: 20px;
